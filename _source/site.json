@@ -1,0 +1,161 @@
+{
+ "intro": "Based in Brussels, Belgium. I started working as a photographer in the advertising industry and after 10 years, it was time to come back to my childhood dream: to shoot movies. I’m now working as a director of photography on commercials, music videos and narrative (shorts, longs and series).",
+ "outro": "Feel free to contact me, I'm looking forward for new challenges !",
+ "copyright": "© Copyrights 2020",
+ "projects": [
+  {
+   "slug": "mayday",
+   "title": "Mayday",
+   "type": "Commercial",
+   "duration": "9:37",
+   "vimeo": "953540602",
+   "featured": true,
+   "credits": [
+    {
+     "title": "Client",
+     "body": [
+      "Gaëlle Garcia",
+      "Martine Cosmetics"
+     ]
+    },
+    {
+     "title": "Directors",
+     "body": [
+      "Yokasaan"
+     ]
+    },
+    {
+     "title": "Production",
+     "body": [
+      "Sarah Notard"
+     ]
+    },
+    {
+     "title": "Starring",
+     "body": [
+      "Clara Laureys",
+      "Evelyn Ariza"
+     ]
+    }
+   ],
+   "iw": 1595,
+   "ih": 900
+  },
+  {
+   "slug": "bruxelles-mobilite",
+   "title": "Bruxelles Mobilité",
+   "type": "Commercial",
+   "duration": "1:35",
+   "vimeo": "566563575",
+   "featured": true,
+   "credits": [
+    {
+     "title": "Agency",
+     "body": [
+      "Mortier Brigade"
+     ]
+    },
+    {
+     "title": "Director",
+     "body": [
+      "Fred De Loof"
+     ]
+    },
+    {
+     "title": "Producer",
+     "body": [
+      "Jekyll n' Hyde"
+     ]
+    },
+    {
+     "title": "Creatives",
+     "body": [
+      "Fred Zouag & Nico Gaspart"
+     ]
+    }
+   ],
+   "iw": 1593,
+   "ih": 900
+  },
+  {
+   "slug": "la-jungle-le-jour-du-cobra",
+   "title": "La Jungle - Le jour du Cobra",
+   "type": "Music Video",
+   "duration": "7:30",
+   "vimeo": "566570354",
+   "featured": true,
+   "credits": [
+    {
+     "title": "Director",
+     "body": [
+      "Fred Labeye"
+     ]
+    },
+    {
+     "title": "Gaffer",
+     "body": [
+      "Edouard Outters"
+     ]
+    },
+    {
+     "title": "1AC",
+     "body": [
+      "Sylvestre Vannoorenberghe"
+     ]
+    },
+    {
+     "title": "Starring",
+     "body": [
+      "Anthe, Natacha & La Jungle"
+     ]
+    }
+   ],
+   "iw": 1595,
+   "ih": 900
+  },
+  {
+   "slug": "the-glorious-peanut",
+   "title": "The Glorious Peanut",
+   "type": "Short Film",
+   "duration": "1:30",
+   "vimeo": "425478869",
+   "featured": false,
+   "credits": [],
+   "iw": 800,
+   "ih": 452
+  },
+  {
+   "slug": "nicolas-vo-fast-food-lover",
+   "title": "Nicolas VO - Fast Food Lover",
+   "type": "Music Video",
+   "duration": "4:11",
+   "vimeo": "538309460",
+   "featured": false,
+   "credits": [],
+   "iw": 800,
+   "ih": 452
+  },
+  {
+   "slug": "lidl-eoy-2020",
+   "title": "Lidl - EOY 2020",
+   "type": "Advertisement",
+   "duration": "0:35",
+   "vimeo": "538312959",
+   "featured": false,
+   "credits": [],
+   "iw": 800,
+   "ih": 452
+  },
+  {
+   "slug": "la-jungle-the-night-the-doom",
+   "title": "La Jungle - The Night The Doom",
+   "type": "Music Video",
+   "duration": "7:28",
+   "vimeo": "538573461",
+   "featured": false,
+   "credits": [],
+   "iw": 800,
+   "ih": 452
+  }
+ ]
+}
