@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fredlabeye.com/sitemap.xml
+Sitemap: https://www.fredlabeye.com/sitemap.xml

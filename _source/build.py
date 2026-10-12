@@ -7,7 +7,7 @@ import json, html, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = json.load(open(os.path.join(ROOT, "_source", "site.json"), encoding="utf8"))
-SITE = "https://fredlabeye.com"
+SITE = "https://www.fredlabeye.com"
 V = "1"
 
 ICONS = {
